@@ -16,7 +16,7 @@ A beautiful, modern weather application with stunning UI design.
 
 ## 🚀 Live Demo
 
-👉 [Click here to view SkyCast](https://sachinavasthi8.github.io/SkyCast)
+👉 [Click here to view SkyCast](https://sachinavasthi8-crypto.github.io/SkyCast)
 
 ## 🛠️ Tech Stack
 
