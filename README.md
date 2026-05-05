@@ -28,7 +28,8 @@ A beautiful, modern weather application with stunning UI design.
 
 ## 📸 Screenshot
 
-<img width="1919" height="1079" alt="Screenshot 2026-05-05 063745" src="https://github.com/user-attachments/assets/56f6097a-0703-4b9a-b5e4-4a4fd56f9600" />
+<img width="489" height="907" alt="Screenshot 2026-05-05 063745" src="https://github.com/user-attachments/assets/b91ee4ad-ffc4-4a38-bf57-b8075283d8d1" />
+
 
 ## 👨‍💻 Developer
 
